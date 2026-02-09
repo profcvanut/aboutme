@@ -3,6 +3,83 @@
   "fonte": "https://scholar.google.com/citations?user=Wj8icAcAAAAJ&hl=pt-BR",
   "publicacoes": [
     {
+      "titulo": "Reconsidering Conversational Norms in LLM Chatbots for Sustainable AI",
+      "autores": "de Souza Santos, Ronnie, Magalhães, Cleyton, Santos, Italo",
+      "veiculo": "arXiv e-prints",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "An Investigation on How AI-Generated Responses Affect Software Engineering Surveys",
+      "autores": "de Souza Santos, Ronnie, Santos, Italo, Baldassarre, Maria Teresa, Magalhaes, Cleyton, Wessel, Mairieli",
+      "veiculo": "arXiv e-prints",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Bita: A Conversational Assistant for Fairness Testing",
+      "autores": "Johnson, Keeryn, Magalhaes, Cleyton, Santos, Ronnie de Souza",
+      "veiculo": "arXiv preprint arXiv:2512.05428",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Software Testing with Large Language Models: An Interview Study with Practitioners",
+      "autores": "Deolinda Santana, Maria, Magalhaes, Cleyton, de Souza Santos, Ronnie",
+      "veiculo": "arXiv e-prints",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Software Testing with Large Language Models: An Interview Study with Practitioners",
+      "autores": "Santana, Deolinda, Magalhaes, Cleyton, de Souza Santos, Ronnie",
+      "veiculo": "2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware) (pp. 96--104)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Model-Assisted and Human-Guided: Perceptions and Practices of Software Professionals Using LLMs for Coding",
+      "autores": "Santos, Italo, Magalhaes, Cleyton, Santos, Ronnie De Souza",
+      "veiculo": "2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware) (pp. 105--112)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Software Fairness Testing in Practice",
+      "autores": "de Souza Santos, Ronnie, de Morais Leça, Matheus, Santos, Reydne, Magalhaes, Cleyton",
+      "veiculo": "arXiv e-prints (arXiv--2506)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Tether: A Personalized Support Assistant for Software Engineers with ADHD",
+      "autores": "Shah, Aarsh, Magalhaes, Cleyton, Gama, Kiev, Santos, Ronnie de Souza",
+      "veiculo": "arXiv preprint arXiv:2509.01946",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Diversity in Software Engineering Education: Exploring Motivations, Influences, and Role Models Among Undergraduate Students",
+      "autores": "Santos, Ronnie De Souza, Santos, Italo, Santos, Robson, Magalhaes, Cleyton",
+      "veiculo": "2025 IEEE/ACM 37th International Conference on Software Engineering Education and Training (CSEE&T) (pp. 253--263)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "From Diverse Origins to a DEI Crisis: The Pushback Against Equity, Diversity, and Inclusion in Software Engineering",
+      "autores": "de Souza Santos, Ronnie, Magalhaes, Cleyton, Barcomb, Ann, Wessel, Mairieli",
+      "veiculo": "Euromicro Conference on Software Engineering and Advanced Applications (pp. 174--190)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems",
+      "autores": "Magalhaes, Cleyton, Santos, Italo, Stuart-Verner, Brody, Santos, Ronnie De Souza",
+      "veiculo": "2025 IEEE International Conference on Source Code Analysis & Manipulation (SCAM) (pp. 78--88)",
+      "ano": 2025,
+      "link": ""
+    },
+    {
       "titulo": "A Delphi Study on the Adaptation of SCRUM Practices to Remote Work",
       "autores": "Magalhaes, Cleyton, Padoan, Fernando, Santos, Robson, Santos, Ronnie de Souza",
       "veiculo": "arXiv preprint arXiv:2503.21960",
@@ -17,16 +94,23 @@
       "link": ""
     },
     {
-      "titulo": "Elevating software quality in agile environments: The role of testing professionals in unit testing",
-      "autores": "Neves, Lucas, Campos, Oscar, Santos, Robson, Magalhaes, Cleyton, Santos, Italo, de Souza Santos, Ronnie",
-      "veiculo": "2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 293--296)",
-      "ano": 2024,
+      "titulo": "Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups",
+      "autores": "de Souza Santos, Ronnie, Santos, Italo, Santos, Robson, Magalhaes, Cleyton",
+      "veiculo": "2025 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 786--796)",
+      "ano": 2025,
       "link": ""
     },
     {
-      "titulo": "Exploring hybrid work realities: A case study with software professionals from underrepresented groups",
-      "autores": "Santos, Ronnie de Souza, Magalhaes, Cleyton, Santos, Robson, Correia-Neto, Jorge",
-      "veiculo": "Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering (pp. 27--37)",
+      "titulo": "Software Fairness Testing in Practice",
+      "autores": "Santos, Ronnie de Souza, Leca, Matheus de Morais, Santos, Reydne, Magalhaes, Cleyton",
+      "veiculo": "arXiv preprint arXiv:2506.17095",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups",
+      "autores": "Santos, Ronnie de Souza, Santos, Italo, Santos, Robson, Magalhaes, Cleyton",
+      "veiculo": "arXiv preprint arXiv:2412.15500",
       "ano": 2024,
       "link": ""
     },
@@ -38,9 +122,23 @@
       "link": ""
     },
     {
-      "titulo": "Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups",
-      "autores": "Santos, Ronnie de Souza, Santos, Italo, Santos, Robson, Magalhaes, Cleyton",
-      "veiculo": "arXiv preprint arXiv:2412.15500",
+      "titulo": "Exploring hybrid work realities: A case study with software professionals from underrepresented groups",
+      "autores": "Santos, Ronnie de Souza, Magalhaes, Cleyton, Santos, Robson, Correia-Neto, Jorge",
+      "veiculo": "Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering (pp. 27--37)",
+      "ano": 2024,
+      "link": ""
+    },
+    {
+      "titulo": "Exploring hybrid work realities: A case study with software professionals from underrepresented groups",
+      "autores": "de Souza Santos, Ronnie, Magalhaes, Cleyton, Santos, Robson, Correia-Neto, Jorge",
+      "veiculo": "Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering, Porto de Galinhas, Brazil",
+      "ano": 2024,
+      "link": ""
+    },
+    {
+      "titulo": "Elevating software quality in agile environments: The role of testing professionals in unit testing",
+      "autores": "Neves, Lucas, Campos, Oscar, Santos, Robson, Magalhaes, Cleyton, Santos, Italo, de Souza Santos, Ronnie",
+      "veiculo": "2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 293--296)",
       "ano": 2024,
       "link": ""
     },
@@ -49,20 +147,6 @@
       "autores": "Santos, Robson, Santos, Italo, Magalhaes, Cleyton, de Souza Santos, Ronnie",
       "veiculo": "2024 IEEE Conference on Software Testing, Verification and Validation (ICST) (pp. 353--360)",
       "ano": 2024,
-      "link": ""
-    },
-    {
-      "titulo": "What do transgender software professionals say about a career in the software industry?",
-      "autores": "de Souza Santos, Ronnie, Stuart-Verner, Brody, Magalhães, Cleyton",
-      "veiculo": "IEEE Software (vol. 40, n. 5, pp. 34--40)",
-      "ano": 2023,
-      "link": ""
-    },
-    {
-      "titulo": "Myths and Facts about a Career in Software Testing: A Comparison between Students’ Beliefs and Professionals’ Experience",
-      "autores": "de Souza Santos, Ronnie, Capretz, Luiz Fernando, Magalhães, Cleyton, Souza, Rodrigo",
-      "veiculo": "IEEE Software (vol. 40, n. 5, pp. 76--84)",
-      "ano": 2023,
       "link": ""
     },
     {
@@ -94,6 +178,27 @@
       "link": ""
     },
     {
+      "titulo": "What do transgender software professionals say about a career in the software industry?",
+      "autores": "de Souza Santos, Ronnie, Stuart-Verner, Brody, Magalhães, Cleyton",
+      "veiculo": "IEEE Software (vol. 40, n. 5, pp. 34--40)",
+      "ano": 2023,
+      "link": ""
+    },
+    {
+      "titulo": "Myths and Facts about a Career in Software Testing: A Comparison between Students’ Beliefs and Professionals’ Experience",
+      "autores": "de Souza Santos, Ronnie, Capretz, Luiz Fernando, Magalhães, Cleyton, Souza, Rodrigo",
+      "veiculo": "IEEE Software (vol. 40, n. 5, pp. 76--84)",
+      "ano": 2023,
+      "link": ""
+    },
+    {
+      "titulo": "Benefits and Limitations of Remote Work to LGBTQIA+ Software Professionals",
+      "autores": "RdS, Santos, Magalhaes, C, Ralph, P",
+      "veiculo": "",
+      "ano": 2023,
+      "link": ""
+    },
+    {
       "titulo": "Roadblocks to attracting students to software testing careers: Comparisons of replicated studies",
       "autores": "Souza, Rodrigo EC, de Souza Santos, Ronnie E, Capretz, Luiz Fernando, de Sousa, Marlon AS, de Magalhães, Cleyton VC",
       "veiculo": "International Conference on the Quality of Information and Communications Technology (pp. 127--139)",
@@ -115,6 +220,13 @@
       "link": ""
     },
     {
+      "titulo": "The role of job specialization in Software Engineering",
+      "autores": "MAGALHÃES, Cleyton Vanut Cordeiro de",
+      "veiculo": "",
+      "ano": 2020,
+      "link": ""
+    },
+    {
       "titulo": "Mind the gap: are practitioners and researchers in software testing speaking the same language?",
       "autores": "Santos, Ronnie ES, Bener, Ayşe, Baldassarre, Maria Teresa, Magalhães, Cleyton VC, Correia-Neto, Jorge S, da Silva, Fabio QB",
       "veiculo": "2019 IEEE/ACM Joint 7th International Workshop on Conducting Empirical Studies in Industry (CESI) and 6th International Workshop on Software Engineering Research and Industrial Practice (SER&IP) (pp. 10--17)",
@@ -129,10 +241,45 @@
       "link": ""
     },
     {
+      "titulo": "Design and Job Rotation in Software Engineering: Results from an Industrial Study",
+      "autores": "Santos, Ronnie, Baldassarre, Maria Teresa, Magalhaes, Cleyton, Capretz, Luiz Fernando, Correia-Neto, Jorge, others",
+      "veiculo": "",
+      "ano": 2019,
+      "link": ""
+    },
+    {
       "titulo": "Computer games are serious business and so is their quality: particularities of software testing in game development from the perspective of practitioners",
       "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Capretz, Luiz Fernando, Correia-Neto, Jorge S, Da Silva, Fabio QB, Saher, Abdelrahman",
       "veiculo": "Proceedings of the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (pp. 1--10)",
       "ano": 2018,
+      "link": ""
+    },
+    {
+      "titulo": "Ooops, I replicated again. Let me tell you why",
+      "autores": "de Magalhães, CV, Baldassarre, Teresa, Santos, RE, da Silva, FQ",
+      "veiculo": "Proceedings of ROSE Festival",
+      "ano": 2018,
+      "link": ""
+    },
+    {
+      "titulo": "Member checking in software engineering research: Lessons learned from an industrial case study",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Da Silva, Fabio QB",
+      "veiculo": "2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 187--192)",
+      "ano": 2017,
+      "link": ""
+    },
+    {
+      "titulo": "Would you like to motivate software testers? Ask them how",
+      "autores": "de Souza Santos, Ronnie Edson, De Magalhaes, Cleyton Vanut Cordeiro, da Silva Correia-Neto, Jorge, Da Silva, Fabio Queda Bueno, Capretz, Luiz Fernando, Souza, Rodrigo",
+      "veiculo": "2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 95--104)",
+      "ano": 2017,
+      "link": ""
+    },
+    {
+      "titulo": "Benefits and limitations of project-to-project job rotation in software organizations: A synthesis of evidence",
+      "autores": "Santos, Ronnie ES, da Silva, Fabio QB, Baldassarre, Maria Teresa, de Magalhães, Cleyton VC",
+      "veiculo": "Information and Software Technology (vol. 89, pp. 78--96)",
+      "ano": 2017,
       "link": ""
     },
     {
@@ -143,10 +290,17 @@
       "link": ""
     },
     {
-      "titulo": "Benefits and limitations of project-to-project job rotation in software organizations: A synthesis of evidence",
-      "autores": "Santos, Ronnie ES, da Silva, Fabio QB, Baldassarre, Maria Teresa, de Magalhães, Cleyton VC",
-      "veiculo": "Information and Software Technology (vol. 89, pp. 78--96)",
-      "ano": 2017,
+      "titulo": "Benefits and limitations of job rotation in software organizations: a systematic literature review",
+      "autores": "Santos, Ronnie ES, da Silva, Fabio QB, de Magalhães, Cleyton VC",
+      "veiculo": "Proceedings of the 20th international conference on evaluation and assessment in software engineering (pp. 1--12)",
+      "ano": 2016,
+      "link": ""
+    },
+    {
+      "titulo": "Preliminary findings about the nature of work in software engineering: An exploratory survey",
+      "autores": "da Silva, Fabio QB, França, César, de Magalhães, Cleyton VC, Santos, Ronnie ES",
+      "veiculo": "Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (pp. 1--6)",
+      "ano": 2016,
       "link": ""
     },
     {
@@ -164,17 +318,80 @@
       "link": ""
     },
     {
-      "titulo": "Objeto de aprendizagem reutilizável em 3D para a identificação de Craniosynostosis: um estudo de caso",
-      "autores": "Ribeiro, Bianca Carneiro, da Silva Correia-Neto, Jorge, de Souza Santos, Ronnie Edson, de Magalhães, Clayton Vanut Cordeiro, Vilar, Guilherme",
-      "veiculo": "Revista Novas Tecnologias na Educação (vol. 12, n. 2)",
+      "titulo": "Investigations about replication of empirical studies in software engineering: A systematic mapping study",
+      "autores": "Cleyton V.C. de Magalhães, Fabio Q.B. da Silva, Ronnie E.S. Santos, Marcos Suassuna",
+      "veiculo": "",
+      "ano": 2015,
+      "link": ""
+    },
+    {
+      "titulo": "Investigations about replication of empirical studies in software engineering: findings from a mapping study",
+      "autores": "MAGALHÃES, Cleyton Vanut Cordeiro de",
+      "veiculo": "",
+      "ano": 2015,
+      "link": ""
+    },
+    {
+      "titulo": "Replication of empirical studies in software engineering: An update of a systematic mapping study",
+      "autores": "Bezerra, Roberta MM, da Silva, Fabio QB, Santana, Anderson M, Magalhaes, Cleyton VC, Santos, Ronnie ES",
+      "veiculo": "2015 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1--4)",
+      "ano": 2015,
+      "link": ""
+    },
+    {
+      "titulo": "PORTUGUÊS PARA DEFICIENTES AUDITIVOS: EXPERIÊNCIAS INICIAIS COM UM EDITOR DE TEXTOS BASEADO NA LIBRAS",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Souza, Ellen PR, Maciel, Josinalva, Correia-Neto, Jorge",
+      "veiculo": "Revista de Sistemas e Computação (vol. 4, n. 2)",
+      "ano": 2015,
+      "link": ""
+    },
+    {
+      "titulo": "Técnicas de processamento de linguagem natural aplicadas ao processo de mineração de textos: resultados preliminares de um mapeamento sistemático",
+      "autores": "Santos, Ronnie ES, Souza, Ellen PR, Correia-Neto, Jorge S, Magalhães, Cleyton VC, Vilar, Guilherme",
+      "veiculo": "Revista de Sistemas e Computação (vol. 4, n. 2)",
+      "ano": 2015,
+      "link": ""
+    },
+    {
+      "titulo": "The use of systematic reviews in evidence based software engineering: a systematic mapping study",
+      "autores": "Santos, Ronnie ES, de Magalhães, Cleyton VC, da Silva, Fabio QB",
+      "veiculo": "Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1--4)",
       "ano": 2014,
       "link": ""
     },
     {
-      "titulo": "Aplicaçao de Técnicas de Aprendizagem de Máquina em Objetos de Aprendizagem baseado em Software: um Mapeamento Sistemático a partir das Publicações do SBIE",
-      "autores": "Beserra, Clébia Alves, da Trindade, Cleyton Carvalho, Souza, Ellen Poliana Ramos, de Magalhães, Cleyton Vanut Cordeiro, de Souza Santos, Ronnie Edson",
-      "veiculo": "Revista Novas Tecnologias na Educação (vol. 12, n. 1)",
+      "titulo": "Investigations about replication of empirical studies in software engineering: preliminary findings from a mapping study",
+      "autores": "de Magalhães, Cleyton VC, da Silva, Fabio QB, Santos, Ronnie ES",
+      "veiculo": "Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (pp. 1--10)",
       "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Ambientes virtuais de aprendizagem e redes sociais virtuais: resultados preliminares de um mapeamento sistemático no contexto da informática na educação",
+      "autores": "Bezerra, Yulianne MS, Vilar, Guilherme, Correia-Neto, Jorge S, Magalhães, Cleyton VC, Santos, Ronnie ES, Queiros, Leandro M",
+      "veiculo": "Memórias do XIX Congreso Internacional Informática Educativa: Nuevas Ideas en Informática Educativa-TISE, Fortaleza (pp. 01--06)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Ferramentas, métodos e experiências no ensino de Engenharia de Software: um mapeamento sistemático",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Correia-Neto, Jorge S, Souza, Ellen PR, Vilar, Guilherme",
+      "veiculo": "Brazilian Symposium on Computers in Education (SBIE) (vol. 25, n. 1, p. 544)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Caracterizando a pesquisa em informática na educação no Brasil: um mapeamento sistemático das publicações do SBIE",
+      "autores": "Magalhães, Cleyton VC, Santos, Ronnie ES, Da Silva, Fabio QB, Gomes, Alex Sandro",
+      "veiculo": "Brazilian Symposium on Computers in Education (SBIE) (vol. 24, n. 1, p. 22)",
+      "ano": 2013,
+      "link": ""
+    },
+    {
+      "titulo": "Towards a taxonomy of replications in empirical software engineering research: A research proposal",
+      "autores": "de Magalhães, Cleyton VC, da Silva, Fabio QB",
+      "veiculo": "2013 3rd International Workshop on Replication in Empirical Software Engineering Research (pp. 50--55)",
+      "ano": 2013,
       "link": ""
     },
     {
@@ -192,38 +409,94 @@
       "link": ""
     },
     {
-      "titulo": "Redes Sociais: Um novo ambiente para aquisição de conhecimento",
-      "autores": "de Magalhães, Cleyton Vanut Cordeiro, de Souza Santos, Ronnie Edson, Neto, Jorge da Silva Correia",
-      "veiculo": "",
-      "ano": null,
+      "titulo": "Developing a social network of support to health care: the experience of GenNet",
+      "autores": "Magalhães, Cleyton VC, Santos, Ronnie ES, Correia Neto, Jorge S, Vilar, Guilherme",
+      "veiculo": "Proceedings of the 18th Brazilian symposium on Multimedia and the web (pp. 351--354)",
+      "ano": 2012,
       "link": ""
     },
     {
-      "titulo": "Avaliação da Interface das Redes Sociais Mais Populares do Brasil",
-      "autores": "de Magalhães, Cleyton Vanut Cordeiro, de Souza Santos, Ronnie Edson, da Silva, Jorge Correia",
-      "veiculo": "",
-      "ano": null,
+      "titulo": "O TWITTER COMO FERRAMENTA DE OBTENÇÃO DE VANTAGEM COMPETITIVA: UM ESTUDO MULTICASO COM EMPRESAS DE COMPRAS COLETIVAS/TWITTER AS A TOOL TO ACHIEVE A COMPETITIVE EDGE: A MULTICASE STUDY WITH GROUP PURCHASE COMPANIES",
+      "autores": "Santos, Ronnie Edson, Nascimento, Roberto, Magalhães, Cleyton, Correia-Neto, Jorge, Dornelas, Jairo",
+      "veiculo": "Revista Electronica de Sistemas de Informacao (vol. 11, n. 2, p. 1)",
+      "ano": 2012,
       "link": ""
     },
     {
-      "titulo": "REDES SOCIAIS VIRTUAIS: EXISTE UM MIX DE FUNCIONALIDADES COMUNS?",
-      "autores": "de Souza Santos, Ronnie Edson, de Magalhães, Cleyton Vanut Cordeiro, Gomes, Mouglas Eugênio Nasário, da Silva Santos, Diego George, Neto, Jorge da Silva Correia, da Silva, Ana Amélia Batista, Vilar, Guilherme, Os, Sistemas de Informações Geográficas SIG",
-      "veiculo": "",
-      "ano": null,
+      "titulo": "O twitter como ferramenta de obtenção de vantagem competitiva: um estudo multicaso com empresas de compras coletivas",
+      "autores": "Santos, Ronnie Edson, Magalhães, Cleyton, Nascimento, Roberto, Correia-Neto, Jorge, Dornelas, Jairo",
+      "veiculo": "Revista Eletrônica de Sistemas de Informação (vol. 11, n. 2)",
+      "ano": 2012,
       "link": ""
     },
     {
-      "titulo": "VALORES NO TRABALHO, A PERSPECTIVA DE PROFESSORES E FUNCIONÁRIOS DA UAST",
-      "autores": "de Souza Santos$^1$, Ronnie Edson, de Magalhães, Cleyton Vanut Cordeiro, de Souza, Paulo Rogério, Almeida, Clébia Alves Beserra, dos Santos Sobreira, Andrêsa Cibelly, Camboim, Maria Waleska, de Andrade, Lopes",
-      "veiculo": "",
-      "ano": null,
+      "titulo": "O Twitter como Ferramenta de Obtenção de Vantagem Competitiva: um Estudo Multicaso com Empresas de Comércio Coletivo",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Santos, Diego GS, Nascimento, Roberto Cássio S, Neto, Jorge S Correia",
+      "veiculo": "Simpósio Brasileiro de Sistemas de Informação (SBSI) (pp. 761--766)",
+      "ano": 2012,
       "link": ""
     },
     {
-      "titulo": "Matemáquina-Sistema Interativo de apoio ao Ensino da Matemática",
-      "autores": "de Souza Santos, Ronnie Edson, de Magalhães, Cleyton Vanut Cordeiro, dos Santos Sobreira, Andrêsa Cibelly, Bezerra, Clébia Alves, Fernandes, Bruno José Torres",
-      "veiculo": "",
-      "ano": null,
+      "titulo": "Tradição nos Estilos de Pesquisa em Educação a Distância: Uma Análise a partir das Publicações do SBIE",
+      "autores": "Magalhães, Cleyton VC, Santos, Ronnie ES, Neto, Jorge S Correia, Souza, Ellen PR",
+      "veiculo": "Workshop de Informática na Escola (WIE) (pp. 1604--1607)",
+      "ano": 2011,
+      "link": ""
+    },
+    {
+      "titulo": "Proglib: Uma linguagem de programação baseada na escrita de libras",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Neto, Jorge S Correia, Júnior, Sergio SL Paiva",
+      "veiculo": "Workshop de Informática na Escola (WIE) (pp. 1533--1542)",
+      "ano": 2011,
+      "link": ""
+    },
+    {
+      "titulo": "Além do modelo 3C em plataformas de colaboração: o caso da montadora local motors",
+      "autores": "da Silva Correia-Neto, Jorge, Dornelas, Jairo Simião, de Souza Santos, Ronnie Edson, de Magalhães, Cleyton Vanut Cordeiro, Vilar, Guilherme",
+      "veiculo": "Revista Brasileira de Administração Científica (vol. 5, n. 2, pp. 33--45)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Trabalhando lógica de programação com portadores de deficiência auditiva: a experiência com a linguagem proglib e a ide hands",
+      "autores": "de Souza Santos, Ronnie Edson, Magalhães, Cleyton VC, Correia-Neto, Jorge S, Queiros, Leandro M, Vilar, Guilherme",
+      "veiculo": "Revista Brasileira de Computação Aplicada (vol. 6, n. 1, pp. 32--44)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Ensino guiado por estudo dirigido: uma experiência no contexto da Engenharia de Software",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Correia-Neto, Jorge S, Vilar, Guilherme",
+      "veiculo": "Workshop de Informática na Escola (WIE) (pp. 170--178)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Informática na educação especial: uma discussão no contexto da educação de surdos",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Maciel, Josinalva, Correia-Neto, Jorge S, Vilar, Guilherme",
+      "veiculo": "Brazilian Symposium on Computers in Education (SBIE) (vol. 25, n. 1, p. 622)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Contribuições da Comunidade Brasileira de Informática na Educação para o Ensino de Química",
+      "autores": "Santos, Ronnie ES, Magalhães, Cleyton VC, Silva, Ivo DL, Correia-Neto, Jorge S, Vilar, Guilherme",
+      "veiculo": "Workshop de Informática na Escola (WIE) (pp. 136--145)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Aplicaçao de Técnicas de Aprendizagem de Máquina em Objetos de Aprendizagem baseado em Software: um Mapeamento Sistemático a partir das Publicações do SBIE",
+      "autores": "Beserra, Clébia Alves, da Trindade, Cleyton Carvalho, Souza, Ellen Poliana Ramos, de Magalhães, Cleyton Vanut Cordeiro, de Souza Santos, Ronnie Edson",
+      "veiculo": "Revista Novas Tecnologias na Educação (vol. 12, n. 1)",
+      "ano": 2014,
+      "link": ""
+    },
+    {
+      "titulo": "Objeto de aprendizagem reutilizável em 3D para a identificação de Craniosynostosis: um estudo de caso",
+      "autores": "Ribeiro, Bianca Carneiro, da Silva Correia-Neto, Jorge, de Souza Santos, Ronnie Edson, de Magalhães, Clayton Vanut Cordeiro, Vilar, Guilherme",
+      "veiculo": "Revista Novas Tecnologias na Educação (vol. 12, n. 2)",
+      "ano": 2014,
       "link": ""
     }
   ]
