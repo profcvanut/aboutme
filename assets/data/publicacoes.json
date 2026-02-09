@@ -1,0 +1,20 @@
+{
+  "atualizado_em": "2026-02-09",
+  "fonte": "https://scholar.google.com/citations?user=Wj8icAcAAAAJ&hl=pt-BR",
+  "publicacoes": [
+    {
+      "titulo": "Título da publicação mais recente",
+      "autores": "Autor 1, Autor 2",
+      "veiculo": "Nome do evento ou periódico",
+      "ano": 2025,
+      "link": ""
+    },
+    {
+      "titulo": "Título de outra publicação",
+      "autores": "Autor 1, Autor 2, Autor 3",
+      "veiculo": "Veículo",
+      "ano": 2023,
+      "link": ""
+    }
+  ]
+}

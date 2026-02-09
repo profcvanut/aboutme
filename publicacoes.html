@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Publicações | Site Pessoal</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="assets/js/main.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Site Pessoal</a>
+
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <nav class="site-nav" data-nav>
+      <a class="nav-link" href="index.html">Principal</a>
+      <a class="nav-link active" href="publicacoes.html">Publicações</a>
+      <a class="nav-link" href="projetos.html">Projetos de Pesquisa</a>
+      <a class="nav-link" href="time.html">Time</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <div class="split">
+        <h1>Publicações</h1>
+        <a class="button button-outline" target="_blank" rel="noopener noreferrer"
+           href="https://scholar.google.com/citations?user=Wj8icAcAAAAJ&hl=pt-BR">
+          Abrir no Google Scholar
+        </a>
+      </div>
+
+      <div class="toolbar">
+        <input id="pubSearch" class="input" type="search" placeholder="Filtrar por título, autores ou ano" />
+      </div>
+
+      <div id="pubStatus" class="muted"></div>
+      <ol id="pubList" class="pub-list"></ol>
+
+      <p class="muted small">
+        Fonte local: <code>assets/data/publicacoes.json</code>. Você pode atualizar manualmente ou usar o workflow automático do GitHub.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>© <span id="year"></span> Site Pessoal</span>
+    </div>
+  </footer>
+</body>
+</html>
