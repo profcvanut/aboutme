@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title data-i18n="team.pageTitle">Time | Dr. Cleyton Magalhães</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="assets/js/main.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Dr. Cleyton Magalhães</a>
+
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <div class="lang-switch" id="langToggle" role="group" aria-label="Idioma">
+      <button type="button" class="lang-btn" data-lang="pt-BR" aria-pressed="false">PT</button>
+      <button type="button" class="lang-btn" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+
+    <nav class="site-nav" data-nav>
+      <a class="nav-link" href="index.html" data-i18n="nav.home">Principal</a>
+      <a class="nav-link" href="publicacoes.html" data-i18n="nav.publications">Publicações</a>
+      <a class="nav-link" href="projetos.html" data-i18n="nav.projects">Projetos de Pesquisa</a>
+      <a class="nav-link active" href="time.html" data-i18n="nav.team">Time</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <div class="split">
+        <h1 data-i18n="team.title">Time</h1>
+      </div>
+
+      <div class="empty-state">
+        <h2 data-i18n="team.empty.title">Em construção</h2>
+        <p class="muted" data-i18n="team.empty.text">
+          Em breve, esta página terá a lista de estudantes e colaboradores que atuam nos projetos de pesquisa.
+        </p>
+
+        <div class="empty-state-actions">
+          <a class="button button-outline" href="index.html" data-i18n="team.empty.back">
+            Voltar para a página principal
+          </a>
+        </div>
+      </div>
+
+      <!--
+        FUTURO: quando você quiser listar alunos, você pode trocar o bloco "empty-state"
+        por uma grade de cards, por exemplo:
+        <div class="grid">
+          <article class="person card">
+            <img src="assets/img/aluno1.jpg" alt="Nome" />
+            <h3>Nome</h3>
+            <p class="muted">Função / Linha de pesquisa</p>
+          </article>
+        </div>
+      -->
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>© <span id="year"></span> Dr. Cleyton Magalhães</span>
+    </div>
+  </footer>
+</body>
+</html>
