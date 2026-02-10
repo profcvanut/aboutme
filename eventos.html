@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title data-i18n="events.pageTitle">Galeria | Dr. Cleyton Magalhães</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="assets/js/main.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Dr. Cleyton Magalhães</a>
+
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <div class="lang-switch" id="langToggle" role="group" aria-label="Idioma">
+      <button type="button" class="lang-btn" data-lang="pt-BR" aria-pressed="false">PT</button>
+      <button type="button" class="lang-btn" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+
+    <nav class="site-nav" data-nav>
+      <a class="nav-link" href="index.html" data-i18n="nav.home">Principal</a>
+      <a class="nav-link" href="publicacoes.html" data-i18n="nav.publications">Publicações</a>
+      <a class="nav-link" href="projetos.html" data-i18n="nav.projects">Projetos de Pesquisa</a>
+      <a class="nav-link" href="time.html" data-i18n="nav.team">Time</a>
+      <a class="nav-link active" href="eventos.html" data-i18n="nav.events">Eventos</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <div class="split">
+        <h1 data-i18n="events.title">Galeria de eventos</h1>
+        <p class="muted" data-i18n="events.subtitle">
+          Fotos de palestras, mesas redondas e atividades acadêmicas.
+        </p>
+      </div>
+
+      <div class="photo-grid" aria-label="Galeria de fotos">
+        <figure class="photo-card">
+          <img
+            src="assets/img/eventos/aiware-2025.jpg"
+            alt="Palestrando no AIware 2025"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong data-i18n="events.p1.title">Palestrando no AIware 2025</strong>
+          </figcaption>
+        </figure>
+
+        <figure class="photo-card">
+          <img
+            src="assets/img/eventos/calgary-roundtable.jpg"
+            alt="Mesa redonda na Universidade de Calgary"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong data-i18n="events.p2.title">Mesa redonda na Universidade de Calgary</strong>
+          </figcaption>
+        </figure>
+
+        <figure class="photo-card">
+          <img
+            src="assets/img/eventos/sala-principios-programacao.jpg"
+            alt="Em sala de aula com alunos de princípios de programação"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong data-i18n="events.p3.title">Em sala de aula com alunos de princípios de programação</strong>
+          </figcaption>
+        </figure>
+      </div>
+
+      <p class="muted small" data-i18n="events.hint">
+        Dica: coloque as imagens em <code>assets/img/eventos/</code> com os nomes indicados no HTML.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>© <span id="year"></span> Dr. Cleyton Magalhães</span>
+    </div>
+  </footer>
+</body>
+</html>
