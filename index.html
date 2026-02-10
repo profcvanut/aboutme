@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="assets/css/styles.css" />
   <script defer src="assets/js/main.js"></script>
 </head>
+
 <body>
   <header class="site-header">
     <a class="brand" href="index.html">Dr. Cleyton Magalhães</a>
@@ -23,64 +24,59 @@
     </div>
 
     <nav class="site-nav" data-nav>
-      <a class="nav-link" href="index.html" data-i18n="nav.home">Principal</a>
+      <a class="nav-link active" href="index.html" data-i18n="nav.home">Principal</a>
       <a class="nav-link" href="publicacoes.html" data-i18n="nav.publications">Publicações</a>
       <a class="nav-link" href="projetos.html" data-i18n="nav.projects">Projetos de Pesquisa</a>
       <a class="nav-link" href="time.html" data-i18n="nav.team">Time</a>
-    </nav>
     </nav>
   </header>
 
   <main class="container">
     <section class="card">
       <div class="hero">
-        <img class="hero-photo" src="assets/img/cleyton.jpeg" alt="Dr. Cleyton Magalhães apresentando em conferência" />
+        <img class="hero-photo" src="assets/img/cleyton.jpeg" alt="Dr. Cleyton Magalhães" />
 
         <div class="hero-content">
-          <h1>Sobre</h1>
-          <p>
-            Docente na <b>Universidade Federal Rural de Pernambuco</b>. Possui graduação em Sistemas de Informação pela
-            Universidade Federal Rural de Pernambuco (2012), Mestrado em Ciências da Computação pela Universidade
-            Federal de Pernambuco (2015) e Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco/Western University (2020).
-            Profissionalmente, atuou na área acadêmica como docente na CESAR School, Unisãomiguel, FATEC-PE e Tera Treinamentos,
-            sendo todas as experiências em disciplinas de Tecnologia da Informação. Em termos de indústria de software,
-            possui experiência como Engenheiro de Testes (QA) na Liferay Inc. e CESAR.
+          <h1 data-i18n="home.title">Dr. Cleyton Magalhães</h1>
+
+          <p class="muted" data-i18n="home.bio">
+            Docente na Universidade Federal Rural de Pernambuco. Possui graduação em Sistemas de Informação pela Universidade Federal Rural de Pernambuco (2012), Mestrado em Ciências da Computação pela Universidade Federal de Pernambuco (2015) e doutorado em Ciências da Computação pela Universidade Federal de Pernambuco/Western University (2020). Profissionalmente, atuou na área acadêmica como docente na CESAR School, Unisãomiguel, FATEC-PE e Tera Treinamentos, sendo todas as experiências em disciplinas de Tecnologia da Informação. Em termos de indústria de software, possui experiência como Engenheiro de Testes (QA) na Liferay Inc. e CESAR.
           </p>
 
-          <h1>Interesses de Pesquisa</h1>
-            <p>
-              <strong>Qualidade de Software.</strong>
-              Minha pesquisa recente investiga como práticas e ferramentas de teste se adaptam a cenários atuais, incluindo sistemas com Modelos de Linguagem de Grande Escala. Tenho analisado aplicações práticas de LLMs em teste de software e discutido riscos e limitações quando modelos são usados na atividade de teste. Também estudo o papel de profissionais de teste em contextos ágeis e fatores do processo que influenciam a qualidade, com foco em evidência empírica e recomendações para uso na indústria.
-              <br><br>
-              <strong>Fairness Testing.</strong>
-              Tenho trabalhado com teste de fairness em software, com ênfase em como organizações aplicam essa atividade na prática e nas dificuldades de adoção. Parte das publicações aborda como ferramentas conversacionais e apoio automatizado podem ser usados para orientar a execução de testes de fairness e apoiar decisões durante a avaliação. Esse eixo conecta teste de software, validação de propriedades sociais e requisitos não funcionais relacionados a vieses e impactos.
-              <br><br>
-              <strong>Aspectos Humanos em Engenharia de Software.</strong>
-              Nos últimos anos, investiguei como características do trabalho afetam pessoas em Engenharia de Software, incluindo especialização, desenho do trabalho e rotação de funções. Também estudei temas ligados a diversidade e inclusão, como experiências de grupos sub-representados e efeitos de modalidades de trabalho (remoto e híbrido) no bem-estar e no cotidiano profissional. Em paralelo, analiso percepções e práticas de profissionais ao usar LLMs no desenvolvimento, buscando entender mudanças no trabalho e implicações para equipes.
-            </p>
-
-
           <div class="actions">
-            <a class="button" href="publicacoes.html">Ver publicações</a>
-
-            <a class="button button-outline" target="_blank" rel="noopener noreferrer"
-               href="https://scholar.google.com/citations?user=Wj8icAcAAAAJ&hl=pt-BR">
-              Google Scholar
-            </a>
-
-            <a class="button button-outline" target="_blank" rel="noopener noreferrer"
-               href="http://lattes.cnpq.br/3964482995173288">
+            <a class="button" href="http://lattes.cnpq.br/3964482995173288" target="_blank" rel="noopener noreferrer">
               Lattes
             </a>
-
-            <a class="button button-outline" target="_blank" rel="noopener noreferrer"
-               href="https://www.linkedin.com/in/cvanut/">
+            <a class="button button-outline" href="https://www.linkedin.com/in/cvanut/" target="_blank" rel="noopener noreferrer">
               LinkedIn
             </a>
           </div>
         </div>
       </div>
     </section>
+
+    <section class="card" style="margin-top: 1rem;">
+      <h1 data-i18n="home.interests.title">Interesses de Pesquisa</h1>
+      <p>
+        <strong data-i18n="home.interests.qs.title">Qualidade de Software.</strong>
+        <span data-i18n="home.interests.qs.text">
+          Minha pesquisa recente investiga como práticas e ferramentas de teste se adaptam a cenários atuais, incluindo sistemas com Modelos de Linguagem de Grande Escala. Tenho analisado aplicações práticas de LLMs em teste de software e discutido riscos e limitações quando modelos são usados na atividade de teste. Também estudo o papel de profissionais de teste em contextos ágeis e fatores do processo que influenciam a qualidade, com foco em evidência empírica e recomendações para uso na indústria.
+        </span>
+        <br><br>
+
+        <strong data-i18n="home.interests.fair.title">Fairness Testing.</strong>
+        <span data-i18n="home.interests.fair.text">
+          Tenho trabalhado com teste de fairness em software, com ênfase em como organizações aplicam essa atividade na prática e nas dificuldades de adoção. Parte das publicações aborda como ferramentas conversacionais e apoio automatizado podem ser usados para orientar a execução de testes de fairness e apoiar decisões durante a avaliação. Esse eixo conecta teste de software, validação de propriedades sociais e requisitos não funcionais relacionados a vieses e impactos.
+        </span>
+        <br><br>
+
+        <strong data-i18n="home.interests.hum.title">Aspectos Humanos em Engenharia de Software.</strong>
+        <span data-i18n="home.interests.hum.text">
+          Nos últimos anos, investiguei como características do trabalho afetam pessoas em Engenharia de Software, incluindo especialização, desenho do trabalho e rotação de funções. Também estudei temas ligados a diversidade e inclusão, como experiências de grupos sub-representados e efeitos de modalidades de trabalho (remoto e híbrido) no bem-estar e no cotidiano profissional. Em paralelo, analiso percepções e práticas de profissionais ao usar LLMs no desenvolvimento, buscando entender mudanças no trabalho e implicações para equipes.
+        </span>
+      </p>
+    </section>
+
   </main>
 
   <footer class="site-footer">
